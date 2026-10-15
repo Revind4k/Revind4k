@@ -1,6 +1,6 @@
 # Eren Han Yasar
 
-CS senior at Rutgers (B.S. May 2027). Software Engineering Intern at Clozure (Flutter/Dart, iOS + Android). Available now for full-time, internship, and co-op roles.
+CS senior at Rutgers (B.S. May 2027). Former Software Engineering Intern at Clozure (May–Sep 2026; Flutter/Dart, iOS + Android). Available now for full-time, internship, and co-op roles.
 
 [LinkedIn](https://www.linkedin.com/in/eren-yasar/) · drknse@gmail.com
 
