@@ -14,7 +14,7 @@ CS senior at Rutgers (B.S. May 2027). Former Software Engineering Intern at Cloz
 | [bikeshare-pipeline](https://github.com/Revind4k/bikeshare-pipeline) | ELT pipeline over 972k Citi Bike rides + weather; heavy rain cuts weekday rides 29%, 31 dbt tests | Python, dbt, DuckDB |
 | [rutgers-course-mcp](https://github.com/Revind4k/rutgers-course-mcp) | MCP server for the Rutgers Schedule of Classes, a Claude agent that uses it, and a 20-task eval (20/20) | TypeScript, MCP, Claude API |
 | [docs-rag](https://github.com/Revind4k/docs-rag) | RAG over the FastAPI docs; hybrid search + reranking lifted recall@5 from 0.63 to 0.80 | Python, pgvector, Postgres |
-| [job-tracker-web](https://github.com/Revind4k/job-tracker-web) | React front end for the job-tracker API; Playwright E2E against the real API + Postgres in CI | React, TypeScript |
+| [job-tracker-web](https://github.com/Revind4k/job-tracker-web) ([live demo](https://revind4k.github.io/job-tracker-web/)) | React front end for the job-tracker API; Playwright E2E against the real API + Postgres in CI | React, TypeScript |
 | [job-tracker-api](https://github.com/Revind4k/job-tracker-api) | REST API with a Redis cache (p95 65.5 ms → 1.66 ms), rate limiter, JWT, Terraform for AWS | Java, Spring Boot, Redis |
 | [support-intent-classifier](https://github.com/Revind4k/support-intent-classifier) | Support-ticket intent routing on BANKING77: fine-tuned BERT 93.1% vs TF-IDF 91.2% | Python, PyTorch |
 | [autofill-extension](https://github.com/Revind4k/autofill-extension) | Chrome extension that fills job applications, using Claude for open-ended questions | TypeScript, Chrome MV3 |
